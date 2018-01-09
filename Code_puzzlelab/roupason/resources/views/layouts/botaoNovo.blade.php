@@ -1,0 +1,1 @@
+<a href="@yield( 'novo', route('usuarios.create'))" class="botNovo"> Novo </a> <!-- yield recebe váriavel -->

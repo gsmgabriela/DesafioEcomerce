@@ -1,0 +1,17 @@
+.table{
+    margin-top: 10em;
+}
+
+.botNovo{
+    margin-top: 10em;
+    float: right;
+    margin-right: 3%;
+    height: 2em;
+    width: 12em;
+    margin-bottom: 1em;
+    background-color: green;
+    color: whitesmoke;
+    border: transparent;
+    border-radius: 3px;
+    text-align: center;
+}
